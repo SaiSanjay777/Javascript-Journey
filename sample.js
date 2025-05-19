@@ -1,1 +1,1 @@
-console.log("Yo, VS Code + JS setup is lit!");
+console.log("Hello, World!");

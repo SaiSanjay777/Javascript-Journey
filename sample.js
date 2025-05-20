@@ -1,1 +1,10 @@
 console.log("Hello, World!");
+var a = 10;
+console.log(a);
+var b= false;
+console.log(b);
+var c=[7,"Dhoni","Thala for a reason"];
+console.log(c);
+console.log(c[1]);
+c[1]= "Captain cool";
+console.log(c);
